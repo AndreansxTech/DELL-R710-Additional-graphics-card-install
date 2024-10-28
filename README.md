@@ -1,8 +1,8 @@
 # DELL R710 Additional graphics card install</br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Dell%20PowerEdge-R710-%23ff29c2">  <img alt="Static Badge" src="https://img.shields.io/badge/Additional_GPU_install-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Modyfying-8A2Be0">
-__Before doing anything mentioned below please read the whole article__
+__Before doing anything mentioned below please read the whole article__</br>
 In the following article I am going to show and explain the proccess of installing an additional GPU to a Dell PowerEdge R710 server.</br>
-Please keep in mind that I am __NOT__ responsible for any damage done to your hardware during an attempt to do what I show here.
+Please keep in mind that I am __NOT__ responsible for any damage done to your hardware during an attempt to do what I show here.</br>
 __Remember that the following article is partially universal, so for example the modding of the riser in Dell R710 will also apply to the R610 riser.__
 ## Prerequisites
 Before you begin with installing a GPU into that R710, you need to:
