@@ -7,6 +7,7 @@ __Remember that the following article is partially universal, so for example the
 ## Prerequisites
 Before you begin with installing a GPU into that R710, you need to:
 - Have a basic toolkit (screwdrivers, wire cutters etc.)
+- A precise drill
 - You need to have a soldering iron. I highly advise you to __NOT__ use a typical transformer soldering iron. Instead you should use a precise soldering iron, most likely with a flat-edge soldering tip.
 - Of course you need to have some flux and solder
 - Also, you most definetly need to have a basic knowledge about things like soldering and electronics.</br>
@@ -16,4 +17,4 @@ Below are photos of the front and upper side without cover of the server</br>
 <img src="https://github.com/user-attachments/assets/71c0effe-bd11-450c-a73c-a1e9a4e16cd3" width=500></br>
 
 ## What will you need to buy
-First of all you need to get your wanted GPU.
+First of all you need to get your wanted GPU. 
