@@ -21,7 +21,7 @@ Below are photos of the front and upper side without cover of the server</br>
 
 ## What will you need to buy
 - Your wanted GPU
-- a PCIe power cable (one that fits your card power pins, preferably a 8 pin)
+- a PCIe power cable (one that fits your card power pins, preferably a 8 pin | However that is optional as some gpus do not need a power supply cable)
 - preferably another motherboard power cable for the R710 (not necessary, just a precaution)
 - some electrical tape</br>
 
